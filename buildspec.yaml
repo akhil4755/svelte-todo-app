@@ -19,4 +19,3 @@ phases:
     commands:
       - echo building...
       - npm run build
-      - npm run start
